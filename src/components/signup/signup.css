@@ -1,0 +1,34 @@
+.signup{
+
+    width: 100%;
+    height: 100vh;
+}
+
+.column{
+    height: 100vh;
+}
+.sign-up-heading{
+font-size: 100px;
+opacity: 0.8;
+
+}
+.col-left{
+/* border-left: 1px solid grey; */
+
+}
+.btn-signup{
+
+    background-color:#87a56d;
+    color: white;
+    outline: none;
+    border: none;
+}
+.input-signup{
+
+   
+    outline: none;
+}
+.btnn{
+    border-radius: 13px;
+    border: none;
+}

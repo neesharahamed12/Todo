@@ -1,0 +1,16 @@
+
+.user-png{
+    width:30px;
+    height: 30px;
+}
+.navbar-brand{
+
+    font-size: 36px;
+    font-weight: bold;
+}
+.btn-nav{
+    background-color:#87a56d;
+    border-radius: 10px;
+    color:white !important;
+    /* font-weight: bold; */
+}
